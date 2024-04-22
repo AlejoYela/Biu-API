@@ -1,0 +1,27 @@
+{
+  "name": "biu-api",
+  "version": "1.0.0",
+  "description": "Makeup API for BiU costetics e-commerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejoYela/Biu-API.git"
+  },
+  "keywords": [
+    "makeup",
+    "api",
+    "biu"
+  ],
+  "author": "Alejandro Yela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejoYela/Biu-API/issues"
+  },
+  "homepage": "https://github.com/AlejoYela/Biu-API#readme",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  }
+}
