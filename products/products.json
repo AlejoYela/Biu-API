@@ -4,7 +4,7 @@
         "nombre": "Rubor líquido",
         "coleccion": "Lumieré luxe",
         "precio": "30000",
-        "src": "./images/1.png",
+        "src": "/images/1.png",
         "descripcion": "Rubor líquido con acabado velvet, textura ligera, perfecto para el día a día, una formula no comedogénica idea para todo tipo de piel.",
         "calificacion": "4.7",
         "categoria": "Maquillaje",
@@ -28,12 +28,12 @@
         "nombre": "Rubor en polvo mineralizado",
         "coleccion": "Lumiere luxe",
         "precio": "30000",
-        "src": "./images/2.png",
+        "src": "/images/2.png",
         "descripcion": "Rubor mineralizado en polvo que deja un acabado ligero danto un aspecto saludable a la piel, mezclando lo mejor de un iluminador y un rubor.",
         "calificacion": "4.5",
         "categoria": "Maquillaje",
         "subcategoria": "Piel",
-        "uso": "",
+        "uso": "Usa una brocha de rubor de tamaño medio.Toca ligeramente la brocha en el rubor y sacude el exceso.Sonríe ligeramente para encontrar el punto alto de tus mejillas.Aplica el rubor con movimientos circulares suaves.Difumina bien para lograr un aspecto natural.Ajusta la intensidad según tu preferencia.¡Listo! Disfruta de un aspecto radiante y saludable.",
         "stock": "1000",
         "tag_list": [
             "Vegano",
@@ -46,5 +46,23 @@
                 "nombre": "096 Curuba"
             }
         ]
+    },
+    {
+        "id": 3,
+        "nombre": "Suero revitalizante ",
+        "coleccion": "Centella 1501",
+        "precio": "40000",
+        "src": "/images/3.png",
+        "descripcion": "Serum Hidratante Revitalizante con Centella Asiática, con una fórmula poderosa que ilumina la piel al instante. Rápida absorción, deja la piel suave, hidratada y revitalizada. Apto para todo tipo de piel, incluso las más sensibles, restaura el equilibrio natural y revela la luminosidad interior.",
+        "calificacion": "4.8",
+        "categoria": "Skincare",
+        "subcategoria": "Serum",
+        "uso": "Limpia tu rostro con tu limpiador facial habitual y sécalo suavemente con una toalla. Aplica una pequeña cantidad de serum hidratante revitalizante con centella asiática en la punta de tus dedos. Distribuye el serum suavemente por todo el rostro, evitando el área de los ojos. Masajea con movimientos circulares ascendentes hasta que el serum se absorba completamente en la piel. Sigue con tu crema hidratante o protector solar si es de día, o con tu crema de noche si es de noche.","stock": "500",
+        "tag_list": [
+            "Vegano",
+            "Libre de crueldad animal",
+            "No comedogénico"
+        ],
+        "colores": null
     }
 ]
