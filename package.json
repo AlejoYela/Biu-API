@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/AlejoYela/Biu-API#readme",
   "dependencies": {
+    "cors": "^2.8.5",
+    "express": "4.19.2",
     "picocolors": "^1.0.0"
   },
   "devDependencies": {
