@@ -33,7 +33,7 @@
         "calificacion": "4.5",
         "categoria": "Maquillaje",
         "subcategoria": "Piel",
-        "uso": "Usa una brocha de rubor de tamaño medio.Toca ligeramente la brocha en el rubor y sacude el exceso.Sonríe ligeramente para encontrar el punto alto de tus mejillas.Aplica el rubor con movimientos circulares suaves.Difumina bien para lograr un aspecto natural.Ajusta la intensidad según tu preferencia.¡Listo! Disfruta de un aspecto radiante y saludable.",
+        "uso": "Usa una brocha de rubor de tamaño medio. Toca ligeramente la brocha en el rubor y sacude el exceso. Sonríe ligeramente para encontrar el punto alto de tus mejillas. Aplica el rubor con movimientos circulares suaves. Difumina bien para lograr un aspecto natural. Ajusta la intensidad según tu preferencia. ¡Listo! Disfruta de un aspecto radiante y saludable.",
         "stock": "1000",
         "tag_list": [
             "Vegano",
@@ -42,27 +42,166 @@
         ],
         "colores": [
             {
-                "hex": "#915167",
+                "hex": "#B07665",
                 "nombre": "096 Curuba"
             }
         ]
     },
     {
         "id": 3,
-        "nombre": "Suero revitalizante ",
+        "nombre": "Serum revitalizante ",
         "coleccion": "Centella 1501",
         "precio": "40000",
         "src": "/images/3.png",
         "descripcion": "Serum Hidratante Revitalizante con Centella Asiática, con una fórmula poderosa que ilumina la piel al instante. Rápida absorción, deja la piel suave, hidratada y revitalizada. Apto para todo tipo de piel, incluso las más sensibles, restaura el equilibrio natural y revela la luminosidad interior.",
         "calificacion": "4.8",
         "categoria": "Skincare",
-        "subcategoria": "Serum",
-        "uso": "Limpia tu rostro con tu limpiador facial habitual y sécalo suavemente con una toalla. Aplica una pequeña cantidad de serum hidratante revitalizante con centella asiática en la punta de tus dedos. Distribuye el serum suavemente por todo el rostro, evitando el área de los ojos. Masajea con movimientos circulares ascendentes hasta que el serum se absorba completamente en la piel. Sigue con tu crema hidratante o protector solar si es de día, o con tu crema de noche si es de noche.","stock": "500",
+        "subcategoria": "Serums",
+        "uso": "Limpia tu rostro con tu limpiador facial habitual y sécalo suavemente con una toalla. Aplica una pequeña cantidad de serum hidratante revitalizante con centella asiática en la punta de tus dedos. Distribuye el serum suavemente por todo el rostro, evitando el área de los ojos. Masajea con movimientos circulares ascendentes hasta que el serum se absorba completamente en la piel. Sigue con tu crema hidratante o protector solar si es de día, o con tu crema de noche si es de noche.",
+        "stock": "500",
         "tag_list": [
             "Vegano",
             "Libre de crueldad animal",
             "No comedogénico"
         ],
         "colores": null
-    }
+    },
+    {
+        "id": 4,
+        "nombre": "Base líquida HD",
+        "coleccion": "CoverAll",
+        "precio": "45000",
+        "src": "/images/4.png",
+        "descripcion": "Base líquida de alta definición que proporciona una cobertura total y acabado natural. Formulada con pigmentos HD para una apariencia impecable en fotografías y eventos especiales. Textura ligera y de larga duración.",
+        "calificacion": "4.9",
+        "categoria": "Maquillaje",
+        "subcategoria": "Piel",
+        "uso": "Agita bien el producto antes de usarlo. Aplica una pequeña cantidad en el rostro limpio y seco. Difumina con una esponja o una brocha para base. Construye la cobertura según tu preferencia. Completa tu maquillaje como de costumbre.",
+        "stock": "800",
+        "tag_list": [
+            "Vegano",
+            "Libre de crueldad animal",
+            "No comedogénico",
+            "Larga duración"
+        ],
+        "colores": [
+            {
+                "hex": "#F2D2B8",
+                "nombre": "Porcelain"
+            },
+            {
+                "hex": "#E8BBA4",
+                "nombre": "Nude Beige"
+            },
+            {
+                "hex": "#D8A08C",
+                "nombre": "Warm Sand"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "Máscara de pestañas voluminizadora",
+        "coleccion": "LashBoost",
+        "precio": "25000",
+        "src": "/images/5.png",
+        "descripcion": "Máscara de pestañas voluminizadora que proporciona un volumen intenso y alarga tus pestañas al máximo. Fórmula resistente al agua para un uso prolongado sin preocupaciones. Cepillo diseñado para separar y definir cada pestaña.",
+        "calificacion": "4.6",
+        "categoria": "Maquillaje",
+        "subcategoria": "Ojos",
+        "uso": "Aplica la máscara desde la raíz hasta las puntas de las pestañas con movimientos de zigzag. Repite si deseas más volumen. Para retirar, utiliza un desmaquillante bifásico o agua tibia.",
+        "stock": "1200",
+        "tag_list": [
+            "Vegano",
+            "Libre de crueldad animal",
+            "Resistente al agua"
+        ],
+        "colores": null
+    },
+    {
+        "id": 6,
+        "nombre": "Polvo traslúcido matificante",
+        "coleccion": "CrystalGlow",
+        "precio": "28000",
+        "src": "/images/6.png",
+        "descripcion": "Polvo traslúcido matificante que fija el maquillaje y controla el brillo durante todo el día. Su fórmula ultrafina se desliza suavemente sobre la piel, difuminando imperfecciones y dejando un acabado natural y sin brillos. Perfecto para sellar el maquillaje y prolongar su duración.",
+        "calificacion": "4.6",
+        "categoria": "Skincare",
+        "subcategoria": "Piel",
+        "uso": "Con una brocha para polvo o una esponja, aplica una pequeña cantidad de polvo traslúcido sobre el rostro después de completar tu rutina de maquillaje. Concéntrate en las zonas propensas a brillar, como la zona T. Puedes reaplicar durante el día si es necesario para eliminar el exceso de brillo.",
+        "stock": "900",
+        "tag_list": [
+            "Vegano",
+            "Libre de crueldad animal",
+            "Matificante",
+            "Sin talco"
+        ],
+        "colores": [
+            {
+                "hex": "#FFFFFF",
+                "nombre": "Translúcido"
+            },
+            {
+                "hex": "#F1E5D1",
+                "nombre": "Natural"
+            },
+            {
+                "hex": "#D8C3A9",
+                "nombre": "Beige"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "nombre": "Serum hidratante con ácido hialurónico",
+        "coleccion": "HydraBoost",
+        "precio": "35000",
+        "src": "/images/7.png",
+        "descripcion": "Serum hidratante con ácido hialurónico que proporciona una hidratación profunda y duradera. Su fórmula ligera y de rápida absorción revitaliza la piel, dejándola suave, flexible y radiante. Ideal para todo tipo de piel, incluso las más sensibles.",
+        "calificacion": "4.8",
+        "categoria": "Skincare",
+        "subcategoria": "Serums",
+        "uso": "Limpia tu rostro con tu limpiador facial habitual y sécalo suavemente con una toalla. Aplica una pequeña cantidad de serum hidratante con ácido hialurónico en la punta de tus dedos. Distribuye el serum suavemente por todo el rostro, evitando el área de los ojos. Masajea con movimientos circulares ascendentes hasta que el serum se absorba completamente en la piel. Sigue con tu crema hidratante o protector solar si es de día, o con tu crema de noche si es de noche.",
+        "stock": "800",
+        "tag_list": [
+            "Vegano",
+            "Libre de crueldad animal",
+            "Hidratante",
+            "Ácido hialurónico"
+        ],
+        "colores": null
+    },
+    {
+        "id": 8,
+        "nombre": "Lipgloss hidratante",
+        "coleccion": "GlossyGlow",
+        "precio": "25000",
+        "src": "/images/8.png",
+        "descripcion": "Lipgloss hidratante que proporciona un brillo intenso y duradero a tus labios. Enriquecido con ingredientes hidratantes como el aceite de jojoba y la manteca de karité, este gloss deja los labios suaves, flexibles y completamente hidratados. Disponible en una variedad de tonos y acabados para complementar cualquier look.",
+        "calificacion": "4.7",
+        "categoria": "Skincare",
+        "subcategoria": "Labios",
+        "uso": "Aplica una capa uniforme de lipgloss sobre los labios limpios y secos. Puedes usarlo solo para un toque de brillo sutil o sobre tu labial favorito para intensificar el color y agregar un acabado brillante. Reaplica según sea necesario para mantener tus labios hidratados y con un brillo hermoso.",
+        "stock": "700",
+        "tag_list": [
+            "Vegano",
+            "Libre de crueldad animal",
+            "Hidratante",
+            "Brillo intenso"
+        ],
+        "colores": [
+            {
+                "hex": "#FFC0CB",
+                "nombre": "Cotton Candy"
+            },
+            {
+                "hex": "#FF4500",
+                "nombre": "Tangerine Dream"
+            },
+            {
+                "hex": "#FFD700",
+                "nombre": "Golden Glow"
+            }
+        ]
+    } 
 ]
