@@ -203,5 +203,24 @@
                 "nombre": "Golden Glow"
             }
         ]
-    } 
+    },
+    {
+        "id": 9,
+        "nombre": "Suero de vitamina C antioxidante",
+        "coleccion": "Aura alchemy",
+        "precio": "40000",
+        "src": "/images/9.png",
+        "descripcion": "Suero antioxidante de vitamina C. Textura ligera, acabado velvet. Reduce manchas del sol, mejora la apariencia de la piel. Fórmula no comedogénica para todo tipo de piel. ¡Piel radiante todos los días!",
+        "calificacion": "4.3",
+        "categoria": "Skincare",
+        "subcategoria": "Serums",
+        "uso": "Aplica una capa uniforme del suero de vitamina C sobre la piel limpia y seca. Úsalo solo para obtener un impulso revitalizante o como base antes de tu crema hidratante habitual para potenciar sus efectos. Puedes aplicarlo por la mañana y por la noche para una piel radiante y uniforme. ¡Revela una tez resplandeciente y llena de vitalidad con cada aplicación!",
+        "stock": "500",
+        "tag_list": [
+            "Vegano",
+            "Libre de crueldad animal",
+            "Hidratante"
+        ],
+        "colores": null
+    }
 ]
