@@ -41,9 +41,8 @@ app.get('/productos/:id', (req, res) => {
     res.status(404).json({ message: 'Product not found' })
 })
 
-app.post('/productos', (req, res) => {
-    const { brand, name, price } = req.body
-    res.status(201).json(req.body)
+app.post('/productos', (req, res)=>{ 
+        res.status(201).json(req.body)
 })
 
 app.use((req, res) => {
