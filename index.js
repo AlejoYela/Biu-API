@@ -8,7 +8,6 @@ app.disable('x-powered-by')
 
 const productosJSON = require('./products/products.json');
 const PORT = process.env.PORT ?? 4321
-const YOUR_DOMAIN = `http://localhost:${PORT}`;
 
 app.use(express.json())
 
