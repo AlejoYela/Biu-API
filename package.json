@@ -1,10 +1,11 @@
 {
   "name": "biu-api",
   "version": "1.0.0",
-  "description": "Makeup API for BiU costetics e-commerce",
+  "description": "Makeup API for BiU cosmetics e-commerce",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js", 
+    "build": "echo 'No build step needed for Node API'",
     "dev": "nodemon index.js"
   },
   "repository": {

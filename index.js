@@ -7,7 +7,7 @@ app.use(cors());
 app.disable('x-powered-by')
 
 const productosJSON = require('./products/products.json');
-const PORT = process.env.PORT ?? 4321
+const PORT = process.env.PORT || 4321
 
 app.use(express.json())
 
