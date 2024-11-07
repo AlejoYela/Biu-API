@@ -4,7 +4,7 @@
   "description": "Makeup API for BiU cosmetics e-commerce",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js", 
+    "start": "node index.js",
     "build": "echo 'No build step needed for Node API'",
     "dev": "nodemon index.js"
   },
@@ -25,7 +25,10 @@
   "homepage": "https://github.com/AlejoYela/Biu-API#readme",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
     "express": "4.19.2",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.8.0",
     "picocolors": "^1.0.0"
   },
   "devDependencies": {
